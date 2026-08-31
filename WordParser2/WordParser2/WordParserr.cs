@@ -20,5 +20,5 @@ do
         Console.WriteLine("Value {0} has {1} items", group.Key, group.Count());
     }
 
-    Console.WriteLine("----");
+    Console.WriteLine("----"); // add a separator when this loop instance is finished to cleanly separate it and the next instance
 } while (true);
