@@ -1,0 +1,14 @@
+C:\Users\chuds\source\repos\WordParser2\WordParser2\bin\Debug\net10.0\WordParser2.exe
+C:\Users\chuds\source\repos\WordParser2\WordParser2\bin\Debug\net10.0\WordParser2.deps.json
+C:\Users\chuds\source\repos\WordParser2\WordParser2\bin\Debug\net10.0\WordParser2.runtimeconfig.json
+C:\Users\chuds\source\repos\WordParser2\WordParser2\bin\Debug\net10.0\WordParser2.dll
+C:\Users\chuds\source\repos\WordParser2\WordParser2\bin\Debug\net10.0\WordParser2.pdb
+C:\Users\chuds\source\repos\WordParser2\WordParser2\obj\Debug\net10.0\WordParser2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chuds\source\repos\WordParser2\WordParser2\obj\Debug\net10.0\WordParser2.AssemblyInfoInputs.cache
+C:\Users\chuds\source\repos\WordParser2\WordParser2\obj\Debug\net10.0\WordParser2.AssemblyInfo.cs
+C:\Users\chuds\source\repos\WordParser2\WordParser2\obj\Debug\net10.0\WordParser2.csproj.CoreCompileInputs.cache
+C:\Users\chuds\source\repos\WordParser2\WordParser2\obj\Debug\net10.0\WordParser2.dll
+C:\Users\chuds\source\repos\WordParser2\WordParser2\obj\Debug\net10.0\refint\WordParser2.dll
+C:\Users\chuds\source\repos\WordParser2\WordParser2\obj\Debug\net10.0\WordParser2.pdb
+C:\Users\chuds\source\repos\WordParser2\WordParser2\obj\Debug\net10.0\WordParser2.genruntimeconfig.cache
+C:\Users\chuds\source\repos\WordParser2\WordParser2\obj\Debug\net10.0\ref\WordParser2.dll
